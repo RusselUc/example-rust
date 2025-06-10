@@ -30,7 +30,7 @@ This is a command-line client written in **Rust** that interacts with the [Fake 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/fake-store-client-rust.git
+git clone https://github.com/RusselUc/example-rust.git
 cd fake-store-client-rust
 ```
 
