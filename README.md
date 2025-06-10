@@ -31,7 +31,7 @@ This is a command-line client written in **Rust** that interacts with the [Fake 
 
 ```bash
 git clone https://github.com/RusselUc/example-rust.git
-cd fake-store-client-rust
+cd example-rust
 ```
 
 2. Make sure you have Rust and Cargo installed:
